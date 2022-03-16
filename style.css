@@ -1,0 +1,55 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(237, 237, 237);
+}
+h1 {
+    text-align: center;
+    padding-top: 30px;
+    font-size: 80px;
+
+
+}
+img {
+  width: 290px;
+  height: 350px;
+  border-radius: 8%;
+  
+}
+
+
+
+div {
+  padding-top: 8%;
+  padding-left: 8%;
+  
+}
+
+li p {
+    text-align: center;
+}
+li p a {
+    text-decoration: none;
+}
+a:link {
+    color: black;
+}
+li p a:visited {
+    text-decoration: none;
+    color: black;
+}
+  
+li p:hover {
+    opacity: 0.3;
+    transition:opacity 1s;
+}
+
+li {
+  display: inline;
+  align-items: center;
+ padding-right: 4%;
+
+  float: left;
+}
