@@ -4,7 +4,10 @@
 
 body {
     background-color: rgb(237, 237, 237);
+
 }
+
+
 h1 {
     text-align: center;
     padding-top: 30px;
@@ -24,6 +27,8 @@ img {
 div {
   padding-top: 8%;
   padding-left: 8%;
+  
+
   
 }
 
@@ -52,4 +57,8 @@ li {
  padding-right: 4%;
 
   float: left;
+}
+
+footer {
+    padding-top: 35%;
 }
